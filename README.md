@@ -10,7 +10,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ13LW7X8lIq2zRCgLjxGNmDyo-FfqERKWJOlWgy307kA&s=10"  />
+<img data-importer="image" align="right" height="170" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ13LW7X8lIq2zRCgLjxGNmDyo-FfqERKWJOlWgy307kA&s=10"  />
 
 ###
 
